@@ -5,4 +5,4 @@
 * I'm currently looking for new opportunities in **_data engineering field_**
 * Feel free to take a look at my projects
 
-**Programmimg skills :** Python, SQL, VBA for Excel and VBA for AutoCAD
+**Programming skills :** Python, SQL, VBA for Excel and VBA for AutoCAD
