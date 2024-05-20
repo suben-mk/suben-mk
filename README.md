@@ -4,6 +4,6 @@
 * I'm a **Tunnel Survey Engineer**
 * I'm currently looking for new opportunities in **_data engineering field_**
 
-**Programming skills :** Python, SQL, VBA Excel and VBA AutoCAD\
+**Programming skills :** Python, SQL, VBA Excel, VBA AutoCAD\
 **Tools :** Apache Spark(PySpark), Apache Airflow, Pandas\
 **Cloud :** GCP(Storage, Composer, BigQuery)
