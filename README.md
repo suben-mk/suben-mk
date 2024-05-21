@@ -6,5 +6,5 @@
 * If you feel free, have a look at my projects
 
 **Programming skills :** Python, SQL, VBA Excel, VBA AutoCAD\
-**Tools :** Apache Spark(PySpark), Apache Airflow, Pandas, Beautiful Soup, Selenium\
-**Cloud :** GCP(Storage, Composer, BigQuery)
+**Tools :** Apache Spark (PySpark), Apache Airflow, Pandas, Beautiful Soup, Selenium\
+**Cloud :** GCP (Storage, Composer, BigQuery)
