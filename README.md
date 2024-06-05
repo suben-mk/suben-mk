@@ -6,7 +6,7 @@
 * If you feel free, have a look at my projects
 
 **Programming skills :** Python, SQL, VBA Excel, VBA AutoCAD\
-**Tools :** Apache Spark (PySpark), Apache Airflow, Pandas, Requests, Beautiful Soup, Selenium\
+**Tools :** Apache Spark (PySpark), Apache Airflow, Pandas, Requests, Beautiful Soup, Selenium, SQLAlchemy\
 **Cloud :** GCP (Storage, Composer, BigQuery)
 
 ### >>>> [Check out my Data Engineer Portfolio here!](https://github.com/suben-mk/Data-Engineer-Portfolio) <<<<
